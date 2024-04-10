@@ -1,7 +1,13 @@
 const express = require('express');
-const app = express();
+const bodyParser = require('body-parser');
+const fs = require('fs');
 
-const waifuData = [
+const app = express();
+const port = 3000;
+
+app.use(bodyParser.json());
+
+const waifus = [
   {
     "waifuname": "makima",
     "link": "https://i.imgur.com/V2XN8TF.jpg",
@@ -124,10 +130,10 @@ const waifuData = [
   }
 ];
 
-app.get('/', (req, res) => {
-  res.json(waifuData);
+app.get('/api/waifu', (req, res) => {
+  res.json(waifus);
 });
 
-app.listen(3000, () => {
-  console.log('API server running on port 3000');
+app.listen(port, () => {
+  console.log(`Example app listening at http://localhost:${port}`);
 });
