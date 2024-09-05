@@ -13,7 +13,7 @@ const waifus = [
     "link": "https://i.imgur.com/V2XN8TF.jpg",
     "stars": "☆☆☆☆",
     "possibility": "20%%",
-    "price": "310",
+    "price": "40",
     "waifuid": "8631"
   },
   {
@@ -21,7 +21,7 @@ const waifus = [
     "link": "https://i.imgur.com/ZRl5rLg.jpg",
     "stars": "☆☆☆☆☆",
     "possibility": "10%",
-    "price": "390",
+    "price": "50",
     "waifuid": "763"
   },
   {
@@ -29,7 +29,7 @@ const waifus = [
     "link": "https://i.imgur.com/D7nSozj.jpg",
     "stars": "☆",
     "possibility": "80%",
-    "price": "98",
+    "price": "15",
     "waifuid": "35184"
   },
   {
@@ -37,7 +37,7 @@ const waifus = [
     "link": "https://i.imgur.com/OoabntJ.jpg",
     "stars": "☆☆☆☆",
     "possibility ": "20%",
-    "price": "310",
+    "price": "40",
     "waifuid": "9087"
   },
   {
@@ -45,7 +45,7 @@ const waifus = [
     "link": "https://i.ibb.co/m5fH9sL/image.jpg",
     "stars": "☆☆☆☆☆",
     "possibility": "10%%",
-    "price": "390",
+    "price": "50",
     "waifuid": "589"
   },
   {
@@ -53,7 +53,7 @@ const waifus = [
     "link": "https://i.imgur.com/uJkqIGV.jpg",
     "stars": "☆",
     "possibility": "80%",
-    "price": "98",
+    "price": "15",
     "waifuid": "94721"
   },
   {
@@ -61,7 +61,7 @@ const waifus = [
     "link": "https://i.imgur.com/00Z79OQ.jpg",
     "stars": "☆☆",
     "possibility": "50%%",
-    "price": "130",
+    "price": "19",
     "waifuid": "9801"
   },
   {
@@ -69,7 +69,7 @@ const waifus = [
     "link": "https://i.imgur.com/Wq3YfOn.jpg",
     "stars": "☆☆",
     "possibility": "50%%",
-    "price": "130",
+    "price": "19",
     "waifuid": "7980"
   },
   {
@@ -77,7 +77,7 @@ const waifus = [
     "link": "https://i.imgur.com/K150gL8.jpg",
     "stars": "☆",
     "possibility": "80%",
-    "price": "98",
+    "price": "15",
     "waifuid": "26791"
   },
   {
@@ -85,7 +85,7 @@ const waifus = [
     "link": "https://i.imgur.com/QGIsWPd.jpg",
     "stars": "☆",
     "possibility": "80%%",
-    "price": "98",
+    "price": "15",
     "waifuid": "1000"
   },
   {
@@ -93,7 +93,7 @@ const waifus = [
     "link": "https://i.imgur.com/QGIsWPd.jpg",
     "stars": "☆☆",
     "possibility": "50%%",
-    "price": "130",
+    "price": "19",
     "waifuid": "4136"
   },
   {
@@ -101,7 +101,7 @@ const waifus = [
     "link": "https://i.imgur.com/WgVyk9K.jpghttps://i.imgur.com/PMXE0kP.jpg",
     "stars": "☆☆☆",
     "possibility": "30%%",
-    "price": "260",
+    "price": "25",
     "waifuid": "991"
   },
   {
@@ -109,7 +109,7 @@ const waifus = [
     "link": "https://i.imgur.com/4L6SawB.jpg",
     "stars": "☆☆",
     "possibility": "50%%",
-    "price": "130",
+    "price": "19",
     "waifuid": "7610"
   },
   {
@@ -117,7 +117,7 @@ const waifus = [
     "link": "https://i.imgur.com/PMXE0kP.jpg",
     "stars": "☆☆☆",
     "possibility": "30%%",
-    "price": "260",
+    "price": "25",
     "waifuid": "451"
   },
   {
@@ -125,7 +125,7 @@ const waifus = [
     "link": "https://i.imgur.com/I6NUTBk.jpg",
     "stars": "☆",
     "possibility": "80%",
-    "price": "98",
+    "price": "15",
     "waifuid": "77110"
   }
 ];
